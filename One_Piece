@@ -6,8 +6,11 @@
 
 "url": "https://raw.githubusercontent.com/EugeElHumano/One_Piece/main/One_Piece",
 
- "stations": [
-
+ "groups": [
+{
+"name": " nombre de la lista ",
+"image":"",
+"station":[
 {
 
 "name": "Capitul 517 ",
@@ -62,4 +65,4 @@
 
  ]
 
-}
+}}]}
