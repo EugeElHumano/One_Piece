@@ -8,24 +8,24 @@
 
  "groups": [
           {
-          "name": " nombre de la listafff rr",
-          "image":"",
+          "name": " One Piece",
+          "image":"https://image.winudf.com/v2/image/Y29tLndhaXMub25lcGllY2Vfc2NyZWVuXzBfMTUyMjc2NTAxOV8wMjY/screen-0.webp?fakeurl=1&type=.webp",
           "groups":[
 
           {
-                    "name": " One Piece ",
+                    "name": " One Piece AYT",
                     "image":"https://image.winudf.com/v2/image/Y29tLndhaXMub25lcGllY2Vfc2NyZWVuXzBfMTUyMjc2NTAxOV8wMjY/screen-0.webp?fakeurl=1&type=.webp",
                     "stations":[
                             {
 
-                            "name": "Capitul 517 (AYT) ",
+                            "name": "Capitul 517 ",
                             "image":"https://pbs.twimg.com/media/FWg8BBbX0AA2Myy.jpg",
                             "url": "https://fastream.to/embed-1quv6xb96070.html",
                             "isHost": "true"
 
                             },
 
- {
+                            {
 
                             "name": "animeyt 518",
                             "image":"https://pbs.twimg.com/media/FWg8BBbX0AA2Myy.jpg",
@@ -34,6 +34,14 @@
 
                             }
 
+                            {
+
+                            "name": "animeyt 519",
+                            "image":"https://pbs.twimg.com/media/FWg8BBbX0AA2Myy.jpg",
+                           "url": "https://fastream.to/embed-8we0n0erpszi.html",
+                           "isHost": "true"
+
+                            }
                     ]},
           {
           "name": " nombre de la listafff ",
