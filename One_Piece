@@ -38,13 +38,13 @@
 
 {
 
-"name": "",
+"name": "*",
 
 "image": "",
 
-"url": "",
-
-"isHost": "true"
+"url": "https://anime-flv.net/ver/one-piece/ep517",
+"desktop":"true",
+"embed": "true"
 
 },
 
